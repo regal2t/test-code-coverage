@@ -1,0 +1,6 @@
+projectKey=code-coverage-testing
+serverUrl=http://170.64.165.32:9000
+serverVersion=9.9.7.96285
+dashboardUrl=http://170.64.165.32:9000/dashboard?id=code-coverage-testing
+ceTaskId=AZNnnz__AQuBtM8wjupd
+ceTaskUrl=http://170.64.165.32:9000/api/ce/task?id=AZNnnz__AQuBtM8wjupd
